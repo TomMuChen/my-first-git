@@ -1,0 +1,9 @@
+hi my name is tom
+q
+~1
+:wq
+wq
+q
+w
+:
+
