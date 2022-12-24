@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 1
 2
 3
-=======
->>>>>>> parent of 6aa24a1 (revised 1)
+4
